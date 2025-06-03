@@ -3,6 +3,7 @@
 Este projeto foi desenvolvido no âmbito da unidade curricular **Sistemas de Apoio à Decisão (SAD)**. O objetivo principal é prever a procura por bicicletas partilhadas com base em dados meteorológicos e temporais, utilizando como caso de estudo a cidade de Seul e comparando com outras grandes cidades mundiais.
 
 ## Estrutura do Projeto
+```
 📁 data/
 │   ├── raw_bike_sharing_systems.csv
 │   ├── raw_cities_weather_forecast.csv
@@ -17,16 +18,17 @@ Este projeto foi desenvolvido no âmbito da unidade curricular **Sistemas de Apo
 📁 images/
 │   ├── Rplot01.png ... Rplot05.png  # Gráficos da análise exploratória
 
-📄 01_recolha_dados.R               # Web scraping e chamadas API
-📄 02_limpeza_transformacao.R       # Tratamento e limpeza dos dados
-📄 03_analise_exploratoria.R        # Consultas SQL e análise descritiva
-📄 04_visualizacoes.R               # Gráficos com ggplot2
-📄 05_modelacao_regressao.R         # Modelos de regressão e avaliação
-📄 app.R                            # Aplicação Shiny
-📄 modelo_interacao.RData           # Modelo final com interações
-📄 Projeto_SAD.Rproj                # Projeto RStudio
-📄 .Rhistory / .RData               # Ficheiros de sessão R
+📄 01_recolha_dados.R            # Web scraping e chamadas API
+📄 02_limpeza_transformacao.R    # Tratamento e limpeza dos dados
+📄 03_analise_exploratoria.R     # Consultas SQL e análise descritiva
+📄 04_visualizacoes.R            # Gráficos com ggplot2
+📄 05_modelacao_regressao.R      # Modelos de regressão e avaliação
+📄 app.R                         # Aplicação Shiny
+📄 modelo_interacao.RData        # Modelo final com interações
+📄 Projeto_SAD.Rproj             # Projeto RStudio
+📄 .Rhistory / .RData            # Ficheiros de sessão R
 📄 UAL - Projeto SAD 2024-2025.pdf  # Enunciado do projeto
+```
 
 ## Tecnologias Utilizadas
 
