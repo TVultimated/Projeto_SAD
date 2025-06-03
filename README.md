@@ -88,7 +88,7 @@ Este projeto foi desenvolvido no âmbito da unidade curricular **Sistemas de Apo
 1. Abrir o projeto com `Projeto_SAD.Rproj` no RStudio.
 2. Executar os scripts `01_recolha_dados.R` até `05_modelacao_regressao.R` por ordem.
 3. Iniciar a aplicação com `app.R` (usar botão “Run App” no RStudio).
-4. Verifica se tens os seguintes pacotes instalados:
+4. Verificar se possui os seguintes pacotes instalados:
    ```r
    install.packages(c("dplyr", "ggplot2", "plotly", "caret", "glmnet", "rvest", "httr", 
                       "jsonlite", "lubridate", "shiny", "shinydashboard", "leaflet", 
